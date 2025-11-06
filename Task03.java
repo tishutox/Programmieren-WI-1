@@ -46,8 +46,9 @@ public class Task03 {
 		
 		char r = readChar();
 		int s = readInteger();
+		char sChar = (char) (s + 48);
 		
-		System.out.println("test");
+		System.out.println(sChar);
 	}
 
 	
