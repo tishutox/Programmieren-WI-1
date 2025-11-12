@@ -2,7 +2,7 @@ package de.tha.wi1;
 
 import static de.tha.tools.Input.*;
 
-public class Task02 {
+public class Task03 {
 
     private static int charConverter(char r) {
         if (Character.isUpperCase(r)) {
