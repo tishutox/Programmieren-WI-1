@@ -10,7 +10,7 @@ public class Task03 {
 	    for (int i = 0; i < len / 2; i++) {
 	        if (palindromArray[i] != palindromArray[len - 1 - i]) {
 	            return false;
-	    }
+	    	}
 	    }
 	    
 	    return true;
